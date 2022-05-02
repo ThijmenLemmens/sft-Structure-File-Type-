@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/c projects/sft-Structure-File-Type-/main.cpp" "CMakeFiles/sft.dir/main.cpp.obj" "gcc" "CMakeFiles/sft.dir/main.cpp.obj.d"
+  "C:/c projects/sft-Structure-File-Type-/main.c" "CMakeFiles/sft.dir/main.c.obj" "gcc" "CMakeFiles/sft.dir/main.c.obj.d"
   )
 
 # Targets to which this target links.

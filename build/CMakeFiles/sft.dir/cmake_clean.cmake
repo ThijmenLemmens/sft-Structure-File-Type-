@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/sft.dir/main.cpp.obj"
-  "CMakeFiles/sft.dir/main.cpp.obj.d"
+  "CMakeFiles/sft.dir/main.c.obj"
+  "CMakeFiles/sft.dir/main.c.obj.d"
   "libsft.dll.a"
   "sft.exe"
   "sft.exe.manifest"
@@ -8,6 +8,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C)
   include(CMakeFiles/sft.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

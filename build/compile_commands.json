@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/c projects/sft-Structure-File-Type-/build",
-  "command": "C:/msys64/mingw64/bin/g++.exe   -g -o CMakeFiles/sft.dir/main.cpp.obj -c \"C:/c projects/sft-Structure-File-Type-/main.cpp\"",
-  "file": "C:/c projects/sft-Structure-File-Type-/main.cpp"
+  "command": "C:/msys64/mingw64/bin/gcc.exe   -g -o CMakeFiles/sft.dir/main.c.obj -c \"C:/c projects/sft-Structure-File-Type-/main.c\"",
+  "file": "C:/c projects/sft-Structure-File-Type-/main.c"
 }
 ]
