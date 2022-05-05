@@ -9,15 +9,23 @@ char* read_file(char* file_name) {
 
     if(file == NULL) {
         return "file does not extists!";         
-    } else {
-        stat(file_name, &st);
-        unsigned int file_size = st.st_size;
-        printf("%d", file_size);
     }
+
+    stat(file_name, &st);
+    unsigned int file_size = st.st_size;
+    printf("%d", file_size);
  
     char* code;
     size_t n = 0;
     int c;
+
+    c = malloc(file_size);
+
+    while((c)) {
+
+    }
+
+    code[n] = '\0'; 
 
     return file_name;
 }
