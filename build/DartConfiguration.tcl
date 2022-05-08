@@ -11,10 +11,10 @@ BuildDirectory: C:/c projects/sft-Structure-File-Type-/build
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: DESKTOP-PVEP6B7
+Site: DESKTOP-BAJLAK0
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Win32-make
+BuildName: Win32-mingw32-make
 
 # Subprojects
 LabelsForSubprojects: 
@@ -63,7 +63,7 @@ UpdateOptions:
 UpdateType: git
 
 # Compiler info
-Compiler: C:/msys64/mingw64/bin/g++.exe
+Compiler: C:/mingw64/bin/g++.exe
 CompilerVersion: 11.2.0
 
 # Dynamic analysis (MemCheck)
@@ -81,7 +81,7 @@ MemoryCheckCommandOptions:
 MemoryCheckSuppressionFile: 
 
 # Coverage
-CoverageCommand: C:/msys64/mingw64/bin/gcov.exe
+CoverageCommand: C:/mingw64/bin/gcov.exe
 CoverageExtraFlags: -l
 
 # Testing options

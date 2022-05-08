@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/sft.dir/lexer.c.obj"
+  "CMakeFiles/sft.dir/lexer.c.obj.d"
   "CMakeFiles/sft.dir/main.c.obj"
   "CMakeFiles/sft.dir/main.c.obj.d"
+  "CMakeFiles/sft.dir/token.c.obj"
+  "CMakeFiles/sft.dir/token.c.obj.d"
   "libsft.dll.a"
   "sft.exe"
   "sft.exe.manifest"

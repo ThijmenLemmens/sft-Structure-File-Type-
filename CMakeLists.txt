@@ -4,7 +4,7 @@ project(sft VERSION 0.1.0)
 include(CTest)
 enable_testing()
 
-add_executable(sft main.c)
+add_executable(sft main.c lexer.c token.c token.h)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

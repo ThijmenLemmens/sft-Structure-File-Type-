@@ -1,7 +1,17 @@
 [
 {
   "directory": "C:/c projects/sft-Structure-File-Type-/build",
-  "command": "C:/msys64/mingw64/bin/gcc.exe   -g -o CMakeFiles/sft.dir/main.c.obj -c \"C:/c projects/sft-Structure-File-Type-/main.c\"",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\sft.dir\\main.c.obj -c \"C:\\c projects\\sft-Structure-File-Type-\\main.c\"",
   "file": "C:/c projects/sft-Structure-File-Type-/main.c"
+},
+{
+  "directory": "C:/c projects/sft-Structure-File-Type-/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\sft.dir\\lexer.c.obj -c \"C:\\c projects\\sft-Structure-File-Type-\\lexer.c\"",
+  "file": "C:/c projects/sft-Structure-File-Type-/lexer.c"
+},
+{
+  "directory": "C:/c projects/sft-Structure-File-Type-/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\sft.dir\\token.c.obj -c \"C:\\c projects\\sft-Structure-File-Type-\\token.c\"",
+  "file": "C:/c projects/sft-Structure-File-Type-/token.c"
 }
 ]
